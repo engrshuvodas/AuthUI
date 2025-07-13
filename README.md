@@ -91,7 +91,7 @@ AUTHUI/
 <h2>🔗 Author</h2>
 <ul>
   <li>👨‍💻 GitHub: <a href="https://github.com/engrshuvodas" target="_blank">engrshuvodas</a></li>
-  <li>🌐 Website: <a href="https://wasendx.com" target="_blank">WasendX</a></li>
+  <li>🌐 Website: <a href="https://engrshuvodas.github.io/SHUVO-_portfolio/" target="_blank">SHUVO Portfolio</a></li>
 </ul>
 
 <p><em>💡 Note: This is a frontend-only project. Backend or form data handling is not included.</em></p>
